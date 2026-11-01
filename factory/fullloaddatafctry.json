@@ -1,0 +1,15 @@
+{
+	"name": "fullloaddatafctry",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cadf6e34-ea1b-4b10-9bf4-de96362c0bb9",
+		"tenantId": "11b3f47a-7092-447e-918e-b3d63f1d6a8e"
+	}
+}
